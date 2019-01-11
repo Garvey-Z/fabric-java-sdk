@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="FabricSDKQuery:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/FabricSDKQuery_war</output-path>
+    <root id="archive" name="FabricSDKQuery_war.war">
+      <element id="artifact" artifact-name="FabricSDKQuery:war exploded" />
+    </root>
+  </artifact>
+</component>
