@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="FabricSDKTest:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="FabricSDKTest.war">
+      <element id="artifact" artifact-name="FabricSDKTest:war exploded" />
+    </root>
+  </artifact>
+</component>
